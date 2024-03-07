@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Development and DevOps.<br>👯 I’m looking to collaborate on Cloud computing.<br>🤝 I’m looking for help with Machine Learning.<br>🌱 I’m currently learning Jquery.<br>💬 Ask me about Devops.<br>⚡ Fun fact - I have good Football Knowledge.
+🔭 I’m currently working on Full Stack Development and DevOps.<br>👯 I’m looking to collaborate on Cloud computing.<br>🤝 I’m looking for help with Machine Learning.<br>🌱 I’m currently learning git.<br>💬 Ask me about Devops.<br>⚡ Fun fact - I have good Football Knowledge.
 
 
 ## 🌐 Socials:

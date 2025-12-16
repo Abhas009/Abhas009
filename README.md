@@ -9,4 +9,5 @@
 - Python
 - SQL
 - Git
-- Java
+- Machine Learning
+- Web Development
